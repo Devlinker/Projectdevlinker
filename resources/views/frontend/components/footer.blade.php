@@ -87,7 +87,7 @@
             class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center gap-2 md:gap-4">
 
             <p class="text-center md:text-left">
-                © 2025 Shopiq. All rights reserved.
+                © 2026 DevLinker All rights reserved.
             </p>
 
             <div class="flex flex-wrap justify-center gap-4">
